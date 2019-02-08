@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Myfirst Application</string>
-    <string name="hello_world_text">Marianne</string>
+    <string name="hello_world_text"> 0 </string>
+    <string name="random_heading">Voici un nombre aléatoire compris entre 0 et %1d</string>
 </resources>
